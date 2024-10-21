@@ -9,4 +9,4 @@ Welcome to my GitHub repository dedicated to competitive programming! 🎯 Here,
 - 🔍 **Platforms:** Codeforces, LeetCode
 - 📅 **Challenge start date:** 21/10/2024
 - 🕒 **Expected end date:** 21/10/2025 🤲
-- 🥅 Target: Reach Specialist level on Codeforces.
+- 🥅 **Target**: Reach Specialist level on Codeforces.
